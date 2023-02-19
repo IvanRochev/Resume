@@ -37,7 +37,7 @@ section {
   display: flex;
 }
 .contact_type {
-  min-width: 90px;
+  min-width: 40px;
 }
 
 .description {
